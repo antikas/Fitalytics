@@ -5,9 +5,9 @@
 // 
 // Module Fitalytics.Core 
 
-namespace Fitalytics.Core
+namespace Fitalytics.Core.Model
 {
-    public class FitaliticsManager
+    public class Block
     {
     }
 }
