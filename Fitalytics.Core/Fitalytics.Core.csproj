@@ -48,7 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FitaliticsManager.cs" />
-    <Compile Include="Model\Block.cs" />
+    <Compile Include="Model\IntervalBlock.cs" />
     <Compile Include="Model\Routine.cs" />
     <Compile Include="Model\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
